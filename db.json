@@ -2,87 +2,85 @@
     "users": [
         {
             "id": 1,
-            "fname": "Karn",
-            "lname": "Yong",
-            "username": "karn.yong@mecallapi.com",
+            "fname": "Bernardo",
+            "lname": "Flores",
+            "username": "AbstractBjern",
             "avatar": "https://www.mecallapi.com/users/1.png"
         },
         {
             "id": 2,
-            "fname": "Ivy",
-            "lname": "Cal",
-            "username": "ivy.cal@mecallapi.com",
+            "fname": "Jace",
+            "lname": "Stark",
+            "username": "JStark",
             "avatar": "https://www.mecallapi.com/users/2.png"
         },
         {
             "id": 3,
-            "fname": "Walter",
-            "lname": "Beau",
-            "username": "walter.beau@mecallapi.com",
+            "fname": "Eloy",
+            "lname": "Rodriguez",
+            "username": "Dragonz4Twenty",
             "avatar": "https://www.mecallapi.com/users/3.png"
         },
         {
             "id": 4,
-            "fname": "Gayla",
-            "lname": "Bertrand",
-            "username": "gayla.bertrand@mecallapi.com",
+            "fname": "Robert",
+            "lname": "Quintanilla",
+            "username": "Rob2Radical",
             "avatar": "https://www.mecallapi.com/users/4.png"
         },
         {
             "id": 5,
-            "fname": "Benjamin",
-            "lname": "Chaz",
-            "username": "benjamin.chaz@mecallapi.com",
+            "fname": "Nicolas",
+            "lname": "Ruiz",
+            "username": "MrSyn",
             "avatar": "https://www.mecallapi.com/users/5.png"
         },
         {
             "id": 6,
-            "fname": "Delia",
-            "lname": "Robin",
-            "username": "delia.robin@mecallapi.com",
+            "fname": "Bruce",
+            "lname": "Wayne",
+            "username": "Where is she?",
             "avatar": "https://www.mecallapi.com/users/6.png"
         },
         {
             "id": 7,
-            "fname": "Hector",
-            "lname": "Graves",
-            "username": "hector.graves@mecallapi.com",
+            "fname": "Tom",
+            "lname": "Riddle",
+            "username": "Voldemort",
             "avatar": "https://www.mecallapi.com/users/7.png"
         },
         {
             "id": 8,
-            "fname": "Diego",
-            "lname": "Greene",
-            "username": "diego.greene@mecallapi.com",
+            "fname": "Choo Choo",
+            "lname": "Charlie",
+            "username": "I know karate",
             "avatar": "https://www.mecallapi.com/users/8.png"
         },
         {
             "id": 9,
-            "fname": "Izzie",
-            "lname": "Mooney",
-            "username": "izzie.mooney@mecallapi.com",
+            "fname": "Clark",
+            "lname": "Kent",
+            "username": "Daily Planet",
             "avatar": "https://www.mecallapi.com/users/9.png"
         },
         {
             "id": 10,
             "fname": "Romeo",
-            "lname": "Garner",
-            "username": "romeo.garner@mecallapi.com",
+            "lname": "Montague",
+            "username": "Poison",
             "avatar": "https://www.mecallapi.com/users/10.png"
         },
         {
-            "fname": "",
-            "lname": "",
-            "username": "",
-            "email": "",
+            "fname": "Juliet",
+            "lname": "Capulet",
+            "username": "Dagger",
             "avatar": "https://www.mecallapi.com/users/cat.png",
             "id": 11
         },
         {
-            "fname": "Nico",
-            "lname": "Nico",
-            "username": "NIIIII",
-            "email": "haha.em",
+            "fname": "Ron",
+            "lname": "Burgundy",
+            "username": "You stay classy, San Diego",
             "avatar": "https://www.mecallapi.com/users/cat.png",
             "id": 12
         }
