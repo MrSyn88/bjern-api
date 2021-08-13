@@ -4,85 +4,121 @@
             "id": 1,
             "fname": "Bernardo",
             "lname": "Flores",
-            "username": "AbstractBjern",
-            "avatar": "https://www.mecallapi.com/users/1.png"
+            "username": "AbstractBjern"
         },
         {
             "id": 2,
             "fname": "Jace",
             "lname": "Stark",
-            "username": "JStark",
-            "avatar": "https://www.mecallapi.com/users/2.png"
+            "username": "JStark"
         },
         {
             "id": 3,
             "fname": "Eloy",
             "lname": "Rodriguez",
-            "username": "Dragonz4Twenty",
-            "avatar": "https://www.mecallapi.com/users/3.png"
+            "username": "Dragonz4Twenty"
         },
         {
             "id": 4,
             "fname": "Robert",
             "lname": "Quintanilla",
-            "username": "Rob2Radical",
-            "avatar": "https://www.mecallapi.com/users/4.png"
+            "username": "Rob2Radical"
         },
         {
             "id": 5,
             "fname": "Nicolas",
             "lname": "Ruiz",
-            "username": "MrSyn",
-            "avatar": "https://www.mecallapi.com/users/5.png"
+            "username": "MrSyn"
         },
         {
             "id": 6,
             "fname": "Bruce",
             "lname": "Wayne",
-            "username": "Where is she?",
-            "avatar": "https://www.mecallapi.com/users/6.png"
+            "username": "Where is she?"
         },
         {
             "id": 7,
             "fname": "Tom",
             "lname": "Riddle",
-            "username": "Voldemort",
-            "avatar": "https://www.mecallapi.com/users/7.png"
+            "username": "Voldemort"
         },
         {
             "id": 8,
             "fname": "Choo Choo",
             "lname": "Charlie",
-            "username": "I know karate",
-            "avatar": "https://www.mecallapi.com/users/8.png"
+            "username": "I know karate"
         },
         {
             "id": 9,
             "fname": "Clark",
             "lname": "Kent",
-            "username": "Daily Planet",
-            "avatar": "https://www.mecallapi.com/users/9.png"
+            "username": "Daily Planet"
         },
         {
             "id": 10,
             "fname": "Romeo",
             "lname": "Montague",
-            "username": "Poison",
-            "avatar": "https://www.mecallapi.com/users/10.png"
+            "username": "Poison"
         },
         {
+            "id": 11,
             "fname": "Juliet",
             "lname": "Capulet",
-            "username": "Dagger",
-            "avatar": "https://www.mecallapi.com/users/cat.png",
-            "id": 11
+            "username": "Dagger"
         },
         {
+            "id": 12,
             "fname": "Ron",
             "lname": "Burgundy",
-            "username": "You stay classy, San Diego",
-            "avatar": "https://www.mecallapi.com/users/cat.png",
-            "id": 12
-        }
+            "username": "You stay classy, San Diego"  
+        },
+        {
+            "id": 13,
+            "fname": "Joe",
+            "lname": "Dirte",
+            "username": "Dirtay"
+        },
+        {
+            "id": 14,
+            "fname": "Wade",
+            "lname": "Wilson",
+            "username": "Chimichanga"
+        },
+        {
+            "id": 15,
+            "fname": "John",
+            "lname": "Constantine",
+            "username": "Bullocks"
+        },
+        {
+            "id": 16,
+            "fname": "Rocket",
+            "lname": "Raccoon",
+            "username": "I'M NOT A RACOON!!"
+        },
+        {
+            "id": 17,
+            "fname": "Peter",
+            "lname": "Quill",
+            "username": "Dance Battle"
+        },
+        {
+            "id": 18,
+            "fname": "Jughead",
+            "lname": "Jones",
+            "username": "Normal is weird"
+        },
+        {
+            "id": 19,
+            "fname": "Garfield",
+            "lname": "Arbuckle",
+            "username": "Lasagna"
+        },
+        {
+            "id": 20,
+            "fname": "Chuck",
+            "lname": "Shurley",
+            "username": "Nacho cheese"
+        }  
     ]
 }
